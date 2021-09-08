@@ -8,7 +8,7 @@ Python librairies
 `pip install sympy`
 
 Jupyter notebook
-`pip install ipynb`
+``pip install ipynb``
 `pip install notebook`
 `dzdo/sudo apt install jupyter-notebook`
 
