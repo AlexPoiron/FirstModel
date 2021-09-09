@@ -18,5 +18,11 @@ dzdo/sudo apt install jupyter-notebook
 ```
 
 ## Utilisation
-To launch a notebook, you just have to do :
-`jupyter-notebook <your_notebook>.ipynb`
+To launch the all jupyter notebook, you just have to do :
+```sh
+jupyter-notebook
+```
+If you want to laucn a specific book :
+```sh
+jupyter-notebook <notebook>.ipynb
+```
