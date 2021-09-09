@@ -22,7 +22,7 @@ To launch the all jupyter notebook, you just have to do :
 ```sh
 jupyter-notebook
 ```
-If you want to laucn a specific book :
+If you want to launch a specific book :
 ```sh
 jupyter-notebook <notebook>.ipynb
 ```
