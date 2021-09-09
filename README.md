@@ -6,11 +6,7 @@ Little project to undestand the Newton's method.
 Python librairies
 ```sh
 pip install numpy
-```
-```sh
 pip install sympy
-```
-```sh
 pip install matplotlib
 ```
 
