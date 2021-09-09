@@ -13,11 +13,7 @@ pip install matplotlib
 Jupyter notebook
 ```sh
 pip install ipynb
-```
-```sh
 pip install notebook
-```
-```sh
 dzdo/sudo apt install jupyter-notebook
 ```
 
