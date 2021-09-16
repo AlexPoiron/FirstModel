@@ -2,7 +2,7 @@
 
 Little project to undestand the Newton's method.
 
-## Installation
+## Installations
 Python librairies
 ```sh
 pip install numpy
